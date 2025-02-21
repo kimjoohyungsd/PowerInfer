@@ -1,7 +1,7 @@
 # PowerInfer: Fast Large Language Model Serving with a Consumer-grade GPU
 
 ## TL;DR
-PowerInfer is a CPU/GPU LLM inference engine leveraging **activation locality** for your device.
+PowerInfer is a CPU/GPU LLM inference engine leveraging **activation locality** for your device. 
 
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
